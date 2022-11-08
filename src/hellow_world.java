@@ -3,5 +3,6 @@ public class hellow_world {
         System.out.println("Hello World!");
         System.out.println("Are you OK?");
         System.out.println("I'm ok");
+        System.out.println("save me");
     }
 }
